@@ -1,0 +1,11 @@
+# Release archives
+*.zip
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+*.bak
