@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Tesserae Chat Archiver",
+    "description": "Product name — not translated."
+  },
+  "extDescription": {
+    "message": "Faça backup das suas conversas com IA localmente — uma conversa ou a conta inteira — em Markdown e texto simples. Claude, ChatGPT, Gemini, Grok, DeepSeek, Copilot e outros. Sem servidores, sem rastreamento.",
+    "description": "Shown on chrome://extensions and in the store."
+  }
+}
