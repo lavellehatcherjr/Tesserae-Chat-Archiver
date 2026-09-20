@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Tesserae Chat Archiver",
+    "description": "Product name — not translated."
+  },
+  "extDescription": {
+    "message": "AIとの会話をローカルに保存します。1件ずつでもアカウント全体でも、Markdownとテキスト形式で。Claude、ChatGPT、Gemini、Grok、DeepSeek、Copilotなどに対応。サーバー送信も追跡もありません。",
+    "description": "Shown on chrome://extensions and in the store."
+  }
+}
