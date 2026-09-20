@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Tesserae Chat Archiver",
+    "description": "Product name — not translated."
+  },
+  "extDescription": {
+    "message": "Sichern Sie Ihre KI-Unterhaltungen lokal — einzeln oder das ganze Konto — als Markdown und reinen Text. Claude, ChatGPT, Gemini, Grok, DeepSeek, Copilot und mehr. Keine Server, kein Tracking.",
+    "description": "Shown on chrome://extensions and in the store."
+  }
+}
