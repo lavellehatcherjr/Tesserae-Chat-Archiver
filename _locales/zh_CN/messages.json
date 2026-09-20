@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Tesserae Chat Archiver",
+    "description": "Product name — not translated."
+  },
+  "extDescription": {
+    "message": "将你的 AI 对话备份到本地——单个对话或整个账户——保存为 Markdown 和纯文本。支持 Claude、ChatGPT、Gemini、Grok、DeepSeek、Copilot 等。不经服务器，无跟踪。",
+    "description": "Shown on chrome://extensions and in the store."
+  }
+}
